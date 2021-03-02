@@ -1,0 +1,171 @@
+[
+     {
+                "name": "Argentina",
+		"leaderName": "Julio Roca",
+		"adjective": ["Argentine"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "Cam I into European Union?",
+		"startIntroPart2": "Ok fine... Then can I get the Malvinas?",
+		
+		"declaringWar": "I need to do this, for the sake of progress. You were never my friend.",
+		"attacked": "Ha! You think you can defeat me? Don't you know we are better than you?",
+		"defeated": "You are just another empire, this victory will not change that, because you did not deafeat me, I gaved up.",
+		"introduction": "I am julio Roca, leader of Argentina. We'll treat you with honor and respect, if you do the same.",
+		
+		"neutralHello": "Good morning.",
+		"hateHello": "Will you give what I deserve?!",
+		
+		"tradeRequest": "I know you want this trade, I'm sure of that.",
+				
+		"outerColor": [90,200,255],
+		"innerColor": [232,232,232],
+		"uniqueName": "Pride of the People",
+		"uniques": ["[+1 Food] from every [Pasture]","[+1 Gold] from every [Wheat]"],
+		"cities": ["Buenos Aires","Cordoba","Rosario","La Plata","Tucuman","Salta","Mendoza","Vera Cruz","Corrientes","Pilar","Bahia Blanca",
+                            "Resistencia","Posadas","Jujuy","Parana","Merlo","Neuquen","Quilmes","Banfield","Formosa","Lanus",
+                            "La Rioja","Comodora","Rivadavia","San Luis","Ituzaingo","Santa fe","Rio Cuarto","San Rafael","Bariloche"]
+	},
+        {
+		"name": "Brazil",
+		"leaderName": "Pedro II",
+                "adjective": ["Brazilian"],
+                "startBias": ["Jungle"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "Wev",
+		"startIntroPart2": "Wev",
+
+		"declaringWar": "The empire of Brazil shall destroy your ill nation.",
+		"attacked": "The only thing I worry for, is for the people affected by this.",
+		"defeated": "This is unfortunate, after all, you are the victor.",
+		"introduction": "I am Pedro the II, emperor of Brazil. Peace and prosperity for our nations.",
+		
+		"neutralHello": "Bom dia",
+		"hateHello": "WHAT do you want?",
+		
+		"tradeRequest": "I'm happy to anounce this trade offer.",
+				
+		"outerColor": [0,155,58],
+		"innerColor": [254,223,0],
+		"uniqueName": "Amazonian Forest",
+		"uniques": ["[+1 Culture] from every [Jungle]", "[+2 Culture] from every [Lumber mill] once [Acoustics] is discovered"],
+		"cities": ["Rio de Janeiro","Sao Paulo","Salvador","Brasilia","Fortalezaq","Belo Horizonte","Manaus","Curitiba","Recife","Porto Alegre",
+			    "Belém","Goiania","Guarulhos","Campinas","São Luis","Maceió","Duque de Caxias","Natal","Campo Grande","Teresina",
+                            "Florianópolis","Nova Iguaçu","Sao Bernardo do Campo","João Pessoa","Osasco","Jaboatão dos Guararapes","São José dos Campos","Contagem","Uberlândia","Aracaju"]
+
+        },
+	{
+		"name": "Colombia",
+		"leaderName": "Carlos Lleras Restrepo",
+		"adjective": ["Colombians"],
+		"startBias": ["Hill","Coast","Jungle"],
+//		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Mmmm, delicius, thanks God I invented the arepa.",
+		"startIntroPart2": "Hey, Hey! Come back here! That´s my money.",
+		
+		"declaringWar": "Prepare to lose your empire of opression!",
+		"attacked": "You will see how fruitless this will be for you. Wait and see.",
+		"defeated":  "I hope you treat my people good, don´t take away their happiness.",
+		"introduction":  "Greetings! This is Colombia, wordeful land of riches and diversity. Want a coffe?",
+		
+		"neutralHello": "Hello There.",
+		"hateHello": "Assh, what do you want?",
+		"tradeRequest": "I  thought you might be intested in this...",
+                "outerColor": [	245, 217, 0],
+		"innerColor": [	1, 57, 150],
+		"uniqueName": "Colombian Coffee Region",
+		"uniques": ["[+1 Gold] from every [Plantation]","[+1 Food] from every [Hill]"],
+		"cities": ["Bogota","Medellin","Cali","Barranquilla","Cartagena","Cucuta","Bucaramanga","Villavicencio","Ibague","Santa Marta","Valledupar",
+			"Tame","Sogamoso","Paipa","Tunja","Pereira","Popayán","Pasto","Duitama","Manizales","Palmira",
+			"Villa de Leyva","Guatape","Neiva","Riohacha","Arauca","Yopal","Pereira","Buenaventura","San Andres"]
+	},
+            {
+		"name": "Chile",
+		"leaderName": "Bernardo O´Higgins",
+		"adjective": ["Chilean"],
+		"startBias": ["Coast", "Desert"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "No one understands chilean spanish.",
+		"startIntroPart2": "Thats not true!",
+
+		"declaringWar": "If it´s necesary to cross The Andes to destroy you, my army is willing to do it.",
+		"attacked": "From the desert to the Patagonia, we will defend our homeland whatever it costs",
+		"defeated": "We haven´t managed to defend our homeland. This lands know are yours... goodbye.",
+		"introduction": "Welcome to our lands. That our nations grow strong and in peace.",
+
+		"neutralHello": "Greetings to your people",
+		"hateHello": "Could you have at least, some respect to my nation?!",
+                "tradeRequest": "Let´s negotiate, we have resources that interest both of us", 
+
+		"outerColor": [255,5,5],
+		"innerColor": [30,30,100],
+		"uniqueName": "Mining Riches"
+                "uniqueText": "+1 Gold and +1 Production for every Quarry",
+		"uniques": ["[+1 Gold] from every [Quarry]", "[+1 Production] from every [Quarry]"],
+		"cities": ["Santiago","La Serena","Valparaiso","Copiapo","Rancagua","Iquique","Valdivia","Concepcion","Antofagasta","Temuco","Osorno","Port Montt",
+                            "Arica","Calama","Valparaiso","Talca","Chillan","Quellon","Chaiten","Coyhaique","Cochrane","Natales Port","Punta Arenas",
+                             "Los Angeles","Quillota","Coronel-Lota","Curico","San Antonio","Melipilla","Ovalle","Los Andes"],
+            },
+                                        {
+                "name": "Mexico",
+		"leaderName": "Benito Juarez",
+		"adjective": ["Mexican"],
+		"startBias": ["Avoid [Tundra]"],
+//      	"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "He... He... my gastronomy is great.",
+		"startIntroPart2": "Do I need to remind you of my Cuy,Huancayo, ceviche platter, Ocopa...",
+
+		"declaringWar": "First comes the homeland, therefore you must not be in my way.",
+		"attacked": "Mexicans! Prepare to defend our homeland!",
+		"defeated": "Nooo, everything I did was for our motherland",
+		"introduction": "Good morning, I'm Benito Juarez. Come with me and see our nation.",
+
+		"neutralHello": "Good day amigo.",
+		"hateHello": "Arghh no, go away.",
+		"tradeRequest": "Could you accept this trade offer?",
+		"outerColor": [0,104,71],
+		"innerColor": [109,63,31],
+
+		"uniqueName": "Day of the Death",
+                "uniques": ["[+1 Culture] from every [Trading post]"],
+                "cities": ["Mexico City","Tijuana","Ecatepec","Leon","Puebla","Juarez City","Guadalajara","Zapopan","Monterrey","Nezahualcoyotl",
+                            "Merida","Cancun","Chihuahua","Durango",Tampico","Saltillo","Acapulco","Villahermosa","Veracruz","Mazatlan",
+                            "Naucalpan","Aguascalientes","Hermosillo","Mexicali","Culiacan","Queretaro","Morelia","Reynosa","Guadalupe","San Luis Potosi"],
+             },
+                                        {
+		"name": "Perú",
+             },
+					{
+		"name": "Venezuela",
+                "leaderName": "Marco Pérez Jiménez",
+		"adjective": ["Venezuelan"],
+		"startBias": ["Plains","Coast"],
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "Stupid Colombia, he thinks he invented the arepa.",
+		"startIntroPart2": "I'm hungry now...",
+
+		"declaringWar": "Your nation is a danger for our sovereignty.",
+		"attacked": "Expect a ferocious battle, which you won´t win.",
+		"defeated": "I have failed you Venezuela!... I have failed you.",
+		"introduction": "A pleasure to meet you, I am Marco Pérez, president of Venezuela. I hope we get along.",
+
+		"neutralHello": "Can I offer you something?",
+		"hateHello": "What do you want, foreigner?!",
+		"tradeRequest": "I hope you accept this; ¡it´s practically a gift!",
+		"outerColor": [245,217,0],
+		"innerColor": [155,0,0],
+
+		"uniqueName": "Oil Power",
+                "uniques": ["Double quantity of [Oil] produced","[+2 Gold] from every [Oil well]"],
+                "cities": ["Caracas","Maracaibo","Valencia","Maracay","Ciudad Guayana","Barcelona","St. Cristobal","Angostura","Mantecal",
+                           "Guasdualito","Maturin","Barinas","Barquisimeto","Porlamar","Puerto la Cruz","Merida","Cumana","Valera","Cabimas",
+                           "Punto Fijo","Acarigua","Los Teques","Coro","Guanare","Ojeda City","Puerto Cabello","Guarenas","Guatire","Turmero",
+                           "Tocuyito","El Trige","Carora"],
+	},
+]
